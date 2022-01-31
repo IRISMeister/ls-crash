@@ -1,4 +1,4 @@
-Class User.REST
+Class User.TESTNG
 {
 
 ClassMethod GetVersion() As %Status
