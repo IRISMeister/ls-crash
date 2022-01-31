@@ -1,0 +1,3 @@
+ROUTINE TEST
+    // OK
+    Set v=$SYSTEM.OBJ.Version()
